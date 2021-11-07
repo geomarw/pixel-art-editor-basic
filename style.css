@@ -1,0 +1,32 @@
+.container {
+  border: 3px solid black;
+  width: 200px;
+  height: 200px;
+}
+
+.column {
+  display: flex;
+  height: 20px;
+}
+
+.color {
+  width: 20px;
+  margin-left: 2px;
+  border: 1px solid;
+}
+.colors {
+  display: flex;
+  margin-bottom: 2px;
+  height: 20px;
+}
+
+.pixel {
+  width: 20px;
+  border: 1px solid black;
+  box-sizing: border-box;
+}
+
+.pixels {
+  display: flex;
+  border: 2px solid black;
+}
